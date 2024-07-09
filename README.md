@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bfg9tkWlCsFMAKZ4qn8wQJJzKarLmntE/view?usp=sharing](https://drive.google.com/file/d/1bfg9tkWlCsFMAKZ4qn8wQJJzKarLmntE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> 9691556076, nishankverma24@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
