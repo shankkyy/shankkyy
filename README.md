@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at 
 
-- 💬 Ask me about **MERN c++ data structures and algorithms**
+- 💬 Ask me about  c++ data structures and algorithms**
 
 - 📫 How to reach me **nishankverma24@gmail.com**
 
