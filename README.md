@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nishank verma</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-
-- 🔭 I’m currently working on **community event scheduler**
-
-- 🌱 I’m currently learning **nextjs**
+<h3 align="center">AI Engineer</h3>
 
 - 👯 I’m looking to collaborate on **projects on backend**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nishank.vercel.app/home](https://portfolio-nishank.vercel.app/home)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **MERN c++ data structures and algorithms**
 
